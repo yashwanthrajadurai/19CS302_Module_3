@@ -1,7 +1,7 @@
-# EX 15 C Program to convert a given decimal value to binary using function without arguments with return type.
+# EX 15 C program that reads a one-dimensional array of integers and replaces all even elements with 'E'.
 ## DATE:
 ## AIM:
-To write a C Program to convert a given decimal value to binary using function without arguments with return type.
+To write a C program that reads a one-dimensional array of integers and replaces all even elements with 'E'.
 
 ## Algorithm
 1. 
@@ -13,7 +13,7 @@ To write a C Program to convert a given decimal value to binary using function w
 ## Program:
 ```
 /*
-Program to convert a given decimal value to binary using function without arguments with return type.
+Program that reads a one-dimensional array of integers and replaces all even elements with 'E'.
 Developed by: 
 RegisterNumber:  
 */
