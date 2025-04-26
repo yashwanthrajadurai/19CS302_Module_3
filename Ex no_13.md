@@ -1,7 +1,7 @@
-# EX 13 To write a C program to read the elements and print only the odd elements in the array.
+# EX 13 To write a C program to read the elements and print only the odd elements in the 2D array.
 ## DATE:
 ## AIM:
-To write a C program to read the elements and print only the odd elements in the array.
+To write a C program to read the elements and print only the odd elements in the 2D array.
 
 ## Algorithm
 1. 
@@ -13,7 +13,7 @@ To write a C program to read the elements and print only the odd elements in the
 ## Program:
 ```
 /*
-Program to read the elements and print only the odd elements in the array.
+Program to read the elements and print only the odd elements in the 2D array.
 Developed by: 
 RegisterNumber:  
 */
